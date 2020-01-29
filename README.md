@@ -1,0 +1,1 @@
+# Gaus_Paralelo_Sequencial
